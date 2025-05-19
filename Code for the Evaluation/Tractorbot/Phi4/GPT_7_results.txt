@@ -1,0 +1,881 @@
+[1.txt - Iteration 1]
+Response Time: 11.76 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "15",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "batteryVoltage",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": "15",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "3",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 8.33 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 8.36 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": "5.0",
+      "valueMIN": "0.0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 8.32 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": "15",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 8.21 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 8.72 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 15.0,
+      "valueMIN": 3.0
+    },
+    {
+      "numeration": "2",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 9.34 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 10.62 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 15.0,
+      "valueMIN": 3.0
+    },
+    {
+      "numeration": "2",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 10.38 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 15.0,
+      "valueMIN": 3.0
+    },
+    {
+      "numeration": "2",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 9.21 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Battery Voltage": [
+    {
+      "numeration": "1",
+      "name": "batteryVoltage",
+      "uiComponent": "Text Display",
+      "valueMAX": "15",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 10.10 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.79
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 100,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 9.89 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Motor Current": [
+      {
+        "numeration": "1",
+        "name": "motorCurrent",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": 100,
+        "valueMIN": 0
+      },
+      {},
+      {
+        "numeration": "2",
+        "name": "motorCurrent",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  "Explanation\n\n- **Value Horizontal Display**: This component is chosen to provide a visual representation of the motor current within an estimated range (0-100). The exact range can be adjusted based on specific application requirements.\n- **Text Display**: This component provides a straightforward display of the numerical value, which complements the slider for clarity.\n\nThis setup ensures that users can effectively view the motor current without any interaction capabilities, aligning with its read-only nature."
+]
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 8.66 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 8.64 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 11.77 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  [
+    "readproperty"
+  ],
+  {
+    "Motor Current": [
+      {
+        "numeration": "1",
+        "name": "motorCurrent",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 9.76 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "motorCurrent",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 9.69 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": "100",
+      "valueMIN": "0",
+      "Text Display": "omponent to show the motor current, with an estimated range from 0 to 100. The operation type is implicitly a GET request due to the read-only nature and the",
+      "readproperty": "orm."
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 9.76 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.79
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 100,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "motorCurrent",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": 100,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "3",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 8.24 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Motor Current": [
+    {
+      "numeration": "1",
+      "name": "motorCurrent",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 9.72 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Motor Current": [
+      {
+        "numeration": "1",
+        "name": "motorCurrent",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": 100,
+        "valueMIN": 0
+      },
+      {},
+      {
+        "numeration": "2",
+        "name": "motorCurrent",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  "Explanation:\n- **Value Horizontal Display**: This component is used to visually represent the motor current as a slider. The range (0-100) is estimated for demonstration purposes",
+  "assuming typical values for motor currents.\n- **Text Display**: Provides a textual representation of the motor current value alongside its label.\n\nThis setup ensures that the motor current can be displayed effectively while adhering to the read-only constraint."
+]
+
+==================================================
+
+[3.txt - Iteration 1]
+Response Time: 10.41 seconds
+Accuracy: 0.83
+Reliability: 0.50
+Completeness: 0.99
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Slider",
+      "valueMAX": 2,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": 7,
+      "valueMIN": -7
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Input Form",
+      "valueMAX": 5000,
+      "valueMIN": 0
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 2]
+Response Time: 11.13 seconds
+Accuracy: 0.67
+Reliability: 0.50
+Completeness: 0.65
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Dropdown",
+      "valueMAX": "2",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": "7",
+      "valueMIN": "-7"
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Slider",
+      "valueMAX": "5000",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 3]
+Response Time: 11.90 seconds
+Accuracy: 0.67
+Reliability: 0.50
+Completeness: 0.65
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Two Buttons",
+      "valueMAX": "2",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": "7",
+      "valueMIN": "-7"
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Slider",
+      "valueMAX": "5000",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 4]
+Response Time: 12.54 seconds
+Accuracy: 0.67
+Reliability: 0.50
+Completeness: 0.65
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Two Buttons",
+      "valueMAX": "2",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": "7",
+      "valueMIN": "-7"
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Slider",
+      "valueMAX": "5000",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 5]
+Response Time: 11.70 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.64
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Two Buttons",
+      "valueMAX": "2",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": "7",
+      "valueMIN": "-7"
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Input Form",
+      "valueMAX": "5000",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 6]
+Response Time: 9.98 seconds
+Accuracy: 0.83
+Reliability: 0.50
+Completeness: 0.99
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Slider",
+      "valueMAX": 2,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": 7,
+      "valueMIN": -7
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Input Form",
+      "valueMAX": 5000,
+      "valueMIN": 0
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 7]
+Response Time: 10.32 seconds
+Accuracy: 0.83
+Reliability: 0.50
+Completeness: 0.99
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Slider",
+      "valueMAX": 2,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": 7,
+      "valueMIN": -7
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Input Form",
+      "valueMAX": 5000,
+      "valueMIN": 0
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 8]
+Response Time: 10.41 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.99
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Two Buttons",
+      "valueMAX": 2,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": 7,
+      "valueMIN": -7
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Input Form",
+      "valueMAX": 5000,
+      "valueMIN": 0
+    }
+  ],
+  "HTTP Request Type": "POST"
+}
+
+==================================================
+
+[3.txt - Iteration 9]
+Response Time: 8.47 seconds
+Accuracy: 0.83
+Reliability: 0.50
+Completeness: 0.99
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Slider",
+      "valueMAX": 2,
+      "valueMIN": 0
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": 7,
+      "valueMIN": -7
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Input Form",
+      "valueMAX": 5000,
+      "valueMIN": 0
+    }
+  ],
+  "HTTP Request Type": "POST"
+}
+
+==================================================
+
+[3.txt - Iteration 10]
+Response Time: 11.88 seconds
+Accuracy: 0.67
+Reliability: 0.50
+Completeness: 0.65
+
+--- Response Content ---
+{
+  "Wheel Control": [
+    {
+      "numeration": "1",
+      "name": "axis",
+      "uiComponent": "Two Buttons",
+      "valueMAX": "2",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": "7",
+      "valueMIN": "-7"
+    },
+    {
+      "numeration": "3",
+      "name": "duration",
+      "uiComponent": "Slider",
+      "valueMAX": "5000",
+      "valueMIN": "0"
+    }
+  ],
+  "HTTP Request Type": "POST"
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.50
+Average Reliability: 0.50
+Average Completeness: 0.53
+Average Response Time: 9.94 seconds
+
+==================================================
+

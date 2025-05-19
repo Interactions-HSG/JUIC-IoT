@@ -1,0 +1,428 @@
+[1.txt - Iteration 1]
+Response Time: 41.48 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 25.22 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 24.61 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 25.60 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 32.39 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 26.96 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 25.73 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 25.01 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 23.11 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 25.31 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 21.95 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 19.90 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 19.54 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 19.29 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 24.00 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 20.09 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 21.91 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 21.66 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 20.25 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 19.88 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.00
+Average Reliability: 0.50
+Average Completeness: 0.57
+Average Response Time: 24.19 seconds
+
+==================================================
+

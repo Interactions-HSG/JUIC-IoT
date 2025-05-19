@@ -1,0 +1,16 @@
+ "actions": {
+	"operate":{
+		"title": "operate",
+		"description": "Turns the lights on (state=true) or off (state=false)",
+		"forms": [
+			{
+			  "op": ["invokeaction" ],
+			  "href": "XXX"
+			}
+		],
+		"input":{
+			"type":"object",
+			"properties":{"state":{"type":"boolean"}}
+		}
+	}
+  }

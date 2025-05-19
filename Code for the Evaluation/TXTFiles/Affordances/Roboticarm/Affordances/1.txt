@@ -1,0 +1,11 @@
+[ a td:PropertyAffordance, cherrybot:Gripper, js:IntegerSchema, cherrybot:GripperValue;
+      td:name "gripper";
+      td:hasForm [
+          hctl:hasTarget <XXX>;
+          hctl:forContentType "application/json";
+          hctl:hasOperationType td:readProperty
+        ];
+      td:isObservable false;
+      js:minimum "0"^^xsd:int;
+      js:maximum "800"^^xsd:int
+    ]

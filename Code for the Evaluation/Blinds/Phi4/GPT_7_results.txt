@@ -1,0 +1,581 @@
+[1.txt - Iteration 1]
+Response Time: 10.50 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "State of the blinds": [
+    {
+      "numeration": "1",
+      "name": "state display",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 10.58 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  [
+    "up",
+    "down",
+    "stop"
+  ],
+  {
+    "State of the blinds": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "state",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 9.76 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the blinds (up, down, stop)": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 12.29 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "State of the blinds (up, down, stop)": [
+    {
+      "numeration": "1",
+      "name": "state display",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "move up",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "move down",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 9.15 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the blinds": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 11.51 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "State of the blinds (up, down, stop)": [
+    {
+      "numeration": "1",
+      "name": "state display",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null,
+      "requiredDataType": "string"
+    },
+    {
+      "numeration": "3",
+      "name": "state navigation",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 10.01 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the blinds": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 10.36 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the blinds": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 8.93 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the blinds": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 9.82 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the blinds": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 7.56 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 8.92 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "Operate the blinds": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 9.11 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Dropdown",
+      "valueMAX": null,
+      "valueMIN": null,
+      "options": [
+        "up",
+        "down",
+        "stop"
+      ]
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 11.14 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "up",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "down",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "stop",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 9.73 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 9.29 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 8.80 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state_up",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state_down",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "state_stop",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 9.95 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "up",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "down",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "stop",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 7.10 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 9.51 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state_up",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state_down",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "state_stop",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.26
+Average Reliability: 0.50
+Average Completeness: 0.93
+Average Response Time: 9.70 seconds
+
+==================================================
+

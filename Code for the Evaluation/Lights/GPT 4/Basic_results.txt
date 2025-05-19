@@ -1,0 +1,428 @@
+[1.txt - Iteration 1]
+Response Time: 1.96 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 1.72 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 1.92 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 2.14 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 2.04 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 2.03 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 2.01 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 2.08 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 1.89 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 1.50 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 1.88 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 1.79 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 1.74 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "Lights On/Off",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 6.05 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "Lights On/Off",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 1.75 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 1.24 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 1.51 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 1.46 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 1.67 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 1.86 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.50
+Average Reliability: 0.50
+Average Completeness: 0.17
+Average Response Time: 2.01 seconds
+
+==================================================
+

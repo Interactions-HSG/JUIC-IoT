@@ -1,0 +1,11 @@
+{
+ "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}

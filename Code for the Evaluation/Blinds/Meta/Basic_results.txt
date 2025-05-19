@@ -1,0 +1,716 @@
+[1.txt - Iteration 1]
+Response Time: 4.61 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Blinds State",
+      "uiComponent": "Text Display",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 2.32 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Blinds State",
+      "uiComponent": "Text Display",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 2.63 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Blinds State",
+      "uiComponent": "Text Display",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 3.54 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Text Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 3.58 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Text Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 3.16 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "State of the Blinds",
+        "uiComponent": "Text Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "State of the Blinds",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 2.71 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Blinds State",
+      "uiComponent": "Text Display",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 3.43 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Text Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 4.60 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Text Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 3.47 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Text Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds State",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 3.19 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Operation",
+        "uiComponent": "Interactable > Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Operation",
+        "uiComponent": "Interactable > Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 7.90 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 4.34 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable > Two Buttons"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable > Slider"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 5.88 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Operate Blinds",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Operate Blinds",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Operate Blinds",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": "\n    }\n  ]\n}\n```\n\nHowever, if you want to provide a dropdown or list of options for the user to select from (up, down, or stop), it would be more suitable to use an Input Form UI component.\n\n```json\n{",
+        "Name": [
+          {
+            "numeration": "1",
+            "name": "Operate Blinds",
+            "uiComponent": "Input Form",
+            "valueMAX": "",
+            "valueMIN": ""
+          }
+        ]
+      },
+      "But since the description does not specify multiple values or ranges, Single Button is still a good choice."
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 3.94 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Blinds Control",
+      "uiComponent": "Interactable",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 5.40 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      },
+      {
+        "numeration": "2",
+        "name": "Action Type",
+        "uiComponent": "Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      },
+      {
+        "numeration": "2",
+        "name": "Action Type",
+        "uiComponent": "Two Buttons",
+        "valueMAX": "",
+        "valueMIN": "",
+        "options": [
+          {
+            "label": "Up",
+            "value": "up"
+          },
+          {
+            "label": "Down",
+            "value": "down"
+          },
+          {
+            "label": "Stop",
+            "value": "stop"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 4.13 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Blinds Control",
+      "uiComponent": "Interactable",
+      "valueMAX": "up",
+      "valueMIN": "down"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 3.14 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Two Buttons"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 3.36 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "operate": [
+      {
+        "numeration": "1",
+        "name": "Direction of Operation",
+        "uiComponent": "Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "operate": [
+      {
+        "numeration": "1",
+        "name": "Direction of Operation",
+        "uiComponent": "Two Buttons",
+        "valueMAX": "",
+        "valueMIN": "",
+        "button1": {
+          "label": "Up",
+          "action": "invokeaction"
+        },
+        "button2": {
+          "label": "Stop",
+          "action": "invokeaction"
+        }
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 3.57 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable > Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Blinds Control",
+        "uiComponent": "Interactable > Two Buttons",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.20
+Average Reliability: 0.50
+Average Completeness: 0.05
+Average Response Time: 3.94 seconds
+
+==================================================
+

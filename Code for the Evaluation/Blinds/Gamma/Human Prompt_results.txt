@@ -1,0 +1,498 @@
+[1.txt - Iteration 1]
+Response Time: 11.20 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 9.49 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 9.41 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 9.42 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 9.47 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 9.42 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 11.18 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 10.00 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 9.43 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 9.45 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "state": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 16.71 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 16.36 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 16.35 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 16.51 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operateButton",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 16.52 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operateButton",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 16.35 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 16.36 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 16.36 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 16.35 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 16.34 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.88
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": 1,
+      "name": "state",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": 2,
+      "name": "operate",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.00
+Average Reliability: 0.50
+Average Completeness: 0.88
+Average Response Time: 13.13 seconds
+
+==================================================
+

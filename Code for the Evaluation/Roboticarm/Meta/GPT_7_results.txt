@@ -1,0 +1,3627 @@
+[1.txt - Iteration 1]
+Response Time: 6.24 seconds
+Accuracy: 0.25
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Current Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "Minimum Value",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "3",
+      "name": "Maximum Value",
+      "uiComponent": "Text Display",
+      "valueMAX": "800",
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "Set Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 4.60 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Current Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 4.62 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "gripper",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 3.43 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "gripper value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 5.88 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Current Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "Gripper Status",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Set Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 3.94 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 3.77 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "GripperValue": [
+    {
+      "numeration": "1",
+      "name": "gripper",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 3.60 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "gripper value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 3.72 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "gripper value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 7.45 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Gripper": [
+      {
+        "numeration": "1",
+        "name": "Value",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      },
+      {
+        "numeration": "2",
+        "name": "Name and Value",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "Gripper": [
+      {
+        "numeration": "1",
+        "name": "Value",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      },
+      {
+        "numeration": "2",
+        "name": "Name and Value",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "3",
+        "name": "Value",
+        "uiComponent": "Slider",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 4.83 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "initialize": [
+      {
+        "numeration": "1",
+        "name": "Initialize Button",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "initialize": [
+      {
+        "numeration": "1",
+        "name": "Initialize Button",
+        "uiComponent": "Single Button",
+        "targetURL": "https://api.interactions.ics.unisg.ch/cherrybot/initialize",
+        "contentType": "application/json"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 4.46 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 6.93 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Input Configuration",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 4.36 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 5.21 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Description",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 4.95 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Input Data",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 4.34 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Confirm Initialization",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 5.42 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "initialize": [
+    {
+      "numeration": "1",
+      "name": "Input Data",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 5.06 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 3.69 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 1]
+Response Time: 5.35 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Two Buttons",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 2]
+Response Time: 5.76 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Cherrybot Register Operator": [
+      {
+        "numeration": "1",
+        "name": "Name",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null,
+        "propertyName": "name"
+      },
+      {
+        "numeration": "2",
+        "name": "Email",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null,
+        "propertyName": "email"
+      },
+      {
+        "numeration": "3",
+        "name": "Register",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "name": "<operator name>",
+    "email": "<operator email>"
+  }
+]
+
+==================================================
+
+[3.txt - Iteration 3]
+Response Time: 6.23 seconds
+Accuracy: 0.67
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 4]
+Response Time: 4.35 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 5]
+Response Time: 5.86 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 6]
+Response Time: 4.73 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Cancel Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 7]
+Response Time: 5.61 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null,
+      "requiredDataType": "string"
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null,
+      "requiredDataType": "string"
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 8]
+Response Time: 5.07 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 9]
+Response Time: 5.22 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null,
+      "fields": [
+        {
+          "label": "Name",
+          "type": "string"
+        },
+        {
+          "label": "Email",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 10]
+Response Time: 5.10 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.91
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 1]
+Response Time: 4.54 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+{
+  "components": 1.0,
+  "Button**": "A clickable button (Required type: none) to trigger the action.\n2. **Input Form**: An input field for user data (Required type: string) to enter the operator token.\n\nThe Single Button is suitable because it's an action that doesn't require any additional information",
+  "response": "json\n{",
+  "Remove Operator": [
+    {
+      "numeration": "1",
+      "name": "Confirm Removal",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Operator Token",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 2]
+Response Time: 4.69 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Token Input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Remove Operator Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 3]
+Response Time: 4.19 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Remove Operator",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Token",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 4]
+Response Time: 3.89 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Remove Operator",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 5]
+Response Time: 4.12 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Token Input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Remove Operator Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 6]
+Response Time: 5.50 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Remove Operator": [
+      {
+        "numeration": "1",
+        "name": "Token Input",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null,
+        "dataType": "string"
+      },
+      {
+        "numeration": "2",
+        "name": "Remove Operator Button",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {}
+]
+
+==================================================
+
+[4.txt - Iteration 7]
+Response Time: 5.99 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null,
+        "httpRequest": {
+          "method": "DELETE",
+          "url": "https://api.interactions.ics.unisg.ch/cherrybot/operator/{token}"
+        }
+      }
+    ]
+  },
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null,
+        "httpRequest": {
+          "method": "DELETE",
+          "url": "https://api.interactions.ics.unisg.ch/cherrybot/operator/{token}"
+        },
+        "requiredDataType": {
+          "token": "String"
+        }
+      }
+    ]
+  }
+]
+
+==================================================
+
+[4.txt - Iteration 8]
+Response Time: 5.43 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Token",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "Token Value",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "3",
+        "name": "Input Token",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {}
+]
+
+==================================================
+
+[4.txt - Iteration 9]
+Response Time: 4.57 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Token Input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Remove Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 10]
+Response Time: 5.64 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Token",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "Remove Operator",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[5.txt - Iteration 1]
+Response Time: 5.33 seconds
+Accuracy: 0.25
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 2]
+Response Time: 4.55 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 3]
+Response Time: 5.06 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 4]
+Response Time: 5.40 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "Set Gripper",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 5]
+Response Time: 4.36 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 6]
+Response Time: 4.84 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 7]
+Response Time: 3.93 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "GripperValue",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 8]
+Response Time: 3.88 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 9]
+Response Time: 3.91 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 10]
+Response Time: 3.87 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "setGripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 1]
+Response Time: 11.97 seconds
+Accuracy: 0.79
+Reliability: 0.50
+Completeness: 0.46
+
+--- Response Content ---
+{
+  "setTarget": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Input Form",
+      "valueMAX": "72000",
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Input Form",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll Rotation",
+      "uiComponent": "Input Form",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch Rotation",
+      "uiComponent": "Input Form",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw Rotation",
+      "uiComponent": "Input Form",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 2]
+Response Time: 9.06 seconds
+Accuracy: 0.57
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "setTarget": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": "101000",
+      "valueMIN": "-178300"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 3]
+Response Time: 9.97 seconds
+Accuracy: 0.79
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "Set Target": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "1000",
+      "valueMIN": "-1800"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 4]
+Response Time: 9.16 seconds
+Accuracy: 0.14
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "Set Target": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Number Input Field",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Number Input Field",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Number Input Field",
+      "valueMAX": "1000",
+      "valueMIN": "-1800"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Number Input Field",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Number Input Field",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Number Input Field",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 5]
+Response Time: 10.31 seconds
+Accuracy: 0.25
+Reliability: 0.50
+Completeness: 0.46
+
+--- Response Content ---
+{
+  "Set Target": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "Target",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "4",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "5",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "6",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "8",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 6]
+Response Time: 9.59 seconds
+Accuracy: 0.57
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "setTarget": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Text Input",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Text Input",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Text Input",
+      "valueMAX": "1010",
+      "valueMIN": "-178.3"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 7]
+Response Time: 9.65 seconds
+Accuracy: 0.21
+Reliability: 0.50
+Completeness: 0.22
+
+--- Response Content ---
+{
+  "Set Target": [
+    {
+      "numeration": "1",
+      "name": "Speed Range",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "Target Coordinates",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Speed Value",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "4",
+      "name": "Target Coordinates",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "5",
+      "name": "Navigation Buttons",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "6",
+      "name": "Enable Rotation",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 8]
+Response Time: 9.83 seconds
+Accuracy: 0.21
+Reliability: 0.50
+Completeness: 0.36
+
+--- Response Content ---
+{
+  "setTarget": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Horizontal Slider",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Vertical Slider",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 9]
+Response Time: 7.90 seconds
+Accuracy: 0.71
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "setTarget": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate X",
+      "uiComponent": "Slider",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Y",
+      "uiComponent": "Slider",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Coordinate Z",
+      "uiComponent": "Slider",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Slider",
+      "valueMAX": "1800",
+      "valueMIN": "-1800"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "1800",
+      "valueMIN": "-1800"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "1800",
+      "valueMIN": "-1800"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 10]
+Response Time: 11.07 seconds
+Accuracy: 0.79
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "setTarget": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate X",
+      "uiComponent": "Input Form",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Y",
+      "uiComponent": "Input Form",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Coordinate Z",
+      "uiComponent": "Input Form",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Input Form",
+      "valueMAX": "1800",
+      "valueMIN": "-1800"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Input Form",
+      "valueMAX": "1800",
+      "valueMIN": "-1800"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Input Form",
+      "valueMAX": "1800",
+      "valueMIN": "-1800"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 1]
+Response Time: 9.05 seconds
+Accuracy: 0.17
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "tcp": [
+    {
+      "numeration": "1",
+      "name": "Coordinate Display",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "2",
+      "name": "Rotation Display",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1.8E2",
+      "valueMIN": "-1.8E2"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "Rotation Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 2]
+Response Time: 8.41 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "tcp": [
+      {
+        "numeration": "1",
+        "name": "x-coordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      },
+      {
+        "numeration": "2",
+        "name": "y-coordinate",
+        "uiComponent": "Value Vertical Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      },
+      {
+        "numeration": "3",
+        "name": "z-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "4",
+        "name": "roll",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      },
+      {
+        "numeration": "5",
+        "name": "pitch",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      },
+      {
+        "numeration": "6",
+        "name": "yaw",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      }
+    ]
+  },
+  {
+    "httpRequest": {
+      "method": "GET",
+      "url": "https://api.interactions.ics.unisg.ch/cherrybot/tcp"
+    }
+  }
+]
+
+==================================================
+
+[7.txt - Iteration 3]
+Response Time: 11.04 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "tcp": [
+      {
+        "numeration": "1",
+        "name": "Coordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "2",
+        "name": "x",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "3",
+        "name": "y",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "4",
+        "name": "z",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "5",
+        "name": "Rotation",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "roll",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "7",
+        "name": "pitch",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "8",
+        "name": "yaw",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "9",
+        "name": "Input Form",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "httpRequest": {
+      "method": "POST",
+      "url": "https://api.interactions.ics.unisg.ch/cherrybot/tcp"
+    }
+  }
+]
+
+==================================================
+
+[7.txt - Iteration 4]
+Response Time: 10.65 seconds
+Accuracy: 0.14
+Reliability: 0.50
+Completeness: 0.56
+
+--- Response Content ---
+{
+  "tcp": [
+    {
+      "numeration": "1",
+      "name": "coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "x",
+      "uiComponent": "Input Form",
+      "valueMAX": 72000,
+      "valueMIN": -72000
+    },
+    {
+      "numeration": "3",
+      "name": "y",
+      "uiComponent": "Input Form",
+      "valueMAX": 72000,
+      "valueMIN": -72000
+    },
+    {
+      "numeration": "4",
+      "name": "z",
+      "uiComponent": "Input Form",
+      "valueMAX": 1010,
+      "valueMIN": -1783
+    },
+    {
+      "numeration": "5",
+      "name": "roll",
+      "uiComponent": "Input Form",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "pitch",
+      "uiComponent": "Input Form",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "7",
+      "name": "yaw",
+      "uiComponent": "Input Form",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 5]
+Response Time: 11.11 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "tcp": [
+      {
+        "numeration": "1",
+        "name": "x-coordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      },
+      {
+        "numeration": "2",
+        "name": "y-coordinate",
+        "uiComponent": "Value Vertical Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      },
+      {
+        "numeration": "3",
+        "name": "z-coordinate",
+        "uiComponent": "Slider",
+        "valueMAX": "1.01E3",
+        "valueMIN": "-1.783E2"
+      },
+      {
+        "numeration": "4",
+        "name": "roll value",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "5",
+        "name": "pitch value",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "6",
+        "name": "yaw value",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "7",
+        "name": "roll input",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      },
+      {
+        "numeration": "8",
+        "name": "pitch input",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      },
+      {
+        "numeration": "9",
+        "name": "yaw input",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      }
+    ]
+  },
+  {
+    "httpRequest": {
+      "method": "GET",
+      "url": "https://api.interactions.ics.unisg.ch/cherrybot/tcp"
+    }
+  }
+]
+
+==================================================
+
+[7.txt - Iteration 6]
+Response Time: 8.58 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.64
+
+--- Response Content ---
+{
+  "tcp": [
+    {
+      "numeration": "1",
+      "name": "x",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "2",
+      "name": "y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "3",
+      "name": "z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1.01E3",
+      "valueMIN": "-1.783E2"
+    },
+    {
+      "numeration": "4",
+      "name": "roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1.8E2",
+      "valueMIN": "-1.8E2"
+    },
+    {
+      "numeration": "5",
+      "name": "pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1.8E2",
+      "valueMIN": "-1.8E2"
+    },
+    {
+      "numeration": "6",
+      "name": "yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1.8E2",
+      "valueMIN": "-1.8E2"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 7]
+Response Time: 9.72 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "tcp": [
+    {
+      "numeration": "1",
+      "name": "x",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "2",
+      "name": "y",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "3",
+      "name": "z",
+      "uiComponent": "Text Display",
+      "valueMAX": 1010,
+      "valueMIN": -1783
+    },
+    {
+      "numeration": "4",
+      "name": "roll",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "5",
+      "name": "pitch",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "yaw",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 8]
+Response Time: 6.94 seconds
+Accuracy: 0.17
+Reliability: 0.50
+Completeness: 0.10
+
+--- Response Content ---
+{
+  "TCP Target": [
+    {
+      "numeration": "1",
+      "name": "Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "2",
+      "name": "Rotation",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 9]
+Response Time: 10.76 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "tcp": [
+      {
+        "numeration": "1",
+        "name": "x",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      },
+      {
+        "numeration": "2",
+        "name": "y",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      },
+      {
+        "numeration": "3",
+        "name": "z",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "1.01E3",
+        "valueMIN": "-1.783E2"
+      },
+      {
+        "numeration": "4",
+        "name": "roll",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      },
+      {
+        "numeration": "5",
+        "name": "pitch",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      },
+      {
+        "numeration": "6",
+        "name": "yaw",
+        "uiComponent": "Slider",
+        "valueMAX": "1.8E2",
+        "valueMIN": "-1.8E2"
+      }
+    ]
+  },
+  {
+    "tcp": [
+      {
+        "numeration": "1",
+        "name": "x",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "7.2E2",
+        "valueMIN": "-7.2E2"
+      }
+    ],
+    "httpRequest": {
+      "type": "GET",
+      "url": "https://api.interactions.ics.unisg.ch/cherrybot/tcp"
+    }
+  }
+]
+
+==================================================
+
+[7.txt - Iteration 10]
+Response Time: 9.07 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.35
+
+--- Response Content ---
+{
+  "tcp": [
+    {
+      "numeration": "1",
+      "name": "x-coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "2",
+      "name": "y-coordinate",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "3",
+      "name": "z-coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "x-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "5",
+      "name": "y-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 1]
+Response Time: 11.28 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Tcp Target": [
+      {
+        "numeration": "1",
+        "name": "x-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": -720
+      },
+      {
+        "numeration": "2",
+        "name": "y-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": -720
+      },
+      {
+        "numeration": "3",
+        "name": "z-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": 1010,
+        "valueMIN": -178.2
+      },
+      {
+        "numeration": "4",
+        "name": "roll",
+        "uiComponent": "Text Display",
+        "valueMAX": 180,
+        "valueMIN": -180
+      },
+      {
+        "numeration": "5",
+        "name": "pitch",
+        "uiComponent": "Text Display",
+        "valueMAX": 180,
+        "valueMIN": -180
+      },
+      {
+        "numeration": "6",
+        "name": "yaw",
+        "uiComponent": "Text Display",
+        "valueMAX": 180,
+        "valueMIN": -180
+      }
+    ]
+  },
+  {
+    "title": "Tcp Target",
+    "observable": false,
+    "readOnly": false,
+    "type": "object",
+    "properties": {
+      "coordinate": {
+        "time": "string",
+        "value": {
+          "x": "integer",
+          "y": "integer",
+          "z": "integer"
+        }
+      },
+      "rotation": {
+        "time": "string",
+        "value": {
+          "roll": "float",
+          "pitch": "float",
+          "yaw": "float"
+        }
+      }
+    },
+    "forms": [
+      {
+        "op": [
+          "readproperty"
+        ],
+        "href": "https://api.interactions.ics.unisg.ch/cherrybot/tcp/target"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[8.txt - Iteration 2]
+Response Time: 7.06 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.80
+
+--- Response Content ---
+{
+  "TCP Target": [
+    {
+      "numeration": "1",
+      "name": "x-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": 72000,
+      "valueMIN": -72000
+    },
+    {
+      "numeration": "2",
+      "name": "y-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": 72000,
+      "valueMIN": -72000
+    },
+    {
+      "numeration": "3",
+      "name": "z-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": 1010,
+      "valueMIN": -1783
+    },
+    {
+      "numeration": "4",
+      "name": "roll value",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "5",
+      "name": "pitch value",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "yaw value",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 3]
+Response Time: 8.44 seconds
+Accuracy: 0.42
+Reliability: 0.50
+Completeness: 0.37
+
+--- Response Content ---
+{
+  "tcpTarget": [
+    {
+      "numeration": "1",
+      "name": "x",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "2",
+      "name": "y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "z",
+      "uiComponent": "Slider",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "roll",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "5",
+      "name": "pitch",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "6",
+      "name": "yaw",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 4]
+Response Time: 13.30 seconds
+Accuracy: 0.25
+Reliability: 0.50
+Completeness: 0.45
+
+--- Response Content ---
+{
+  "TCP Target": [
+    {
+      "numeration": "1",
+      "name": "x-coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "2",
+      "name": "y-coordinate",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "z-coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "set x-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "5",
+      "name": "set y-coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "6",
+      "name": "set roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "set pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "8",
+      "name": "set yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 5]
+Response Time: 10.62 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "tcpTarget": [
+    {
+      "numeration": "1",
+      "name": "X Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Y Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Z Coordinate",
+      "uiComponent": "Slider",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 6]
+Response Time: 10.39 seconds
+Accuracy: 0.40
+Reliability: 0.50
+Completeness: 0.28
+
+--- Response Content ---
+{
+  "TCP Target": [
+    {
+      "numeration": "1",
+      "name": "Coordinate Display",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "7.2E2",
+      "valueMIN": "-7.2E2"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "5",
+      "name": "Rotation Display",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1.8E2",
+      "valueMIN": "-1.8E2"
+    },
+    {
+      "numeration": "6",
+      "name": "Roll",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "7",
+      "name": "Pitch",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "8",
+      "name": "Yaw",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "9",
+      "name": "Coordinate Input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "10",
+      "name": "Rotation Input",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 7]
+Response Time: 10.03 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "TCP Target": [
+      {
+        "numeration": "1",
+        "name": "x-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "2",
+        "name": "y-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "3",
+        "name": "z-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": "1010",
+        "valueMIN": "-178.3"
+      },
+      {
+        "numeration": "4",
+        "name": "x-coordinate",
+        "uiComponent": "Input Form",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "5",
+        "name": "y-coordinate",
+        "uiComponent": "Input Form",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "6",
+        "name": "z-coordinate",
+        "uiComponent": "Input Form",
+        "valueMAX": "1010",
+        "valueMIN": "-178.3"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Get Current Values",
+        "httpRequest": "GET"
+      },
+      {
+        "numeration": "2",
+        "name": "Update Values",
+        "httpRequest": "POST"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[8.txt - Iteration 8]
+Response Time: 12.60 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "TCP Target": [
+      {
+        "numeration": "1",
+        "name": "x-coordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "2",
+        "name": "y-coordinate",
+        "uiComponent": "Value Vertical Display",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "3",
+        "name": "z-coordinate",
+        "uiComponent": "Text Display",
+        "valueMAX": "1000",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "4",
+        "name": "x-coordinate (write)",
+        "uiComponent": "Slider",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "5",
+        "name": "y-coordinate (write)",
+        "uiComponent": "Slider",
+        "valueMAX": "720",
+        "valueMIN": "-720"
+      },
+      {
+        "numeration": "6",
+        "name": "z-coordinate (write)",
+        "uiComponent": "Slider",
+        "valueMAX": "1000",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "7",
+        "name": "roll, pitch, and yaw coordinates",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "httpRequest": {
+      "method": "GET",
+      "url": "https://api.interactions.ics.unisg.ch/cherrybot/tcp/target"
+    }
+  }
+]
+
+==================================================
+
+[8.txt - Iteration 9]
+Response Time: 10.42 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.64
+
+--- Response Content ---
+{
+  "Tcp Target": [
+    {
+      "numeration": "1",
+      "name": "x",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "2",
+      "name": "y",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "z",
+      "uiComponent": "Text Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 10]
+Response Time: 8.61 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.47
+
+--- Response Content ---
+{
+  "Tcp Target": [
+    {
+      "numeration": "1",
+      "name": "x-coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "2",
+      "name": "y-coordinate",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": "720",
+      "valueMIN": "-720"
+    },
+    {
+      "numeration": "3",
+      "name": "z-coordinate",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "4",
+      "name": "roll",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "pitch",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "yaw",
+      "uiComponent": "Slider",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 1]
+Response Time: 5.62 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 2]
+Response Time: 4.56 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 3]
+Response Time: 4.99 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 4]
+Response Time: 5.16 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 5]
+Response Time: 4.96 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 6]
+Response Time: 5.48 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Submit Button",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Name Input Field",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Email Input Field",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 7]
+Response Time: 4.82 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.97
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 8]
+Response Time: 4.79 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 9]
+Response Time: 5.45 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Input Form",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Two Buttons",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 10]
+Response Time: 5.88 seconds
+Accuracy: 0.33
+Reliability: 0.50
+Completeness: 0.96
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "Submit",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "3",
+      "name": "Cancel",
+      "uiComponent": "Two Buttons",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.45
+Average Reliability: 0.50
+Average Completeness: 0.60
+Average Response Time: 6.58 seconds
+
+==================================================
+

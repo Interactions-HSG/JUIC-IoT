@@ -1,0 +1,17 @@
+[ a td:ActionAffordance, cherrybot:RegisterOperator;
+      td:name "registerOperator";
+      td:hasForm [
+          htv:methodName "POST";
+          hctl:hasTarget <XXX>;
+          hctl:forContentType "application/json";
+          hctl:hasOperationType td:invokeAction
+        ];
+      td:hasInputSchema [ a js:ObjectSchema, cherrybot:OperatorSchema;
+          js:properties [ a js:StringSchema, foaf:Name;
+              js:propertyName "name"
+            ], [ a js:StringSchema, foaf:Mbox;
+              js:propertyName "email"
+            ];
+          js:required "name", "email"
+        ]
+    ]

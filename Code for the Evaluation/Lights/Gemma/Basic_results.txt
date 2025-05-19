@@ -1,0 +1,428 @@
+[1.txt - Iteration 1]
+Response Time: 22.37 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 22.24 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 25.39 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 23.82 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 23.39 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 25.83 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 21.66 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 23.12 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 25.69 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 25.74 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.19
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 25.02 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 25.52 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 26.61 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 25.25 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 25.22 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 24.68 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 25.81 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 24.67 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 25.22 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 27.51 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "operate",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.50
+Average Reliability: 0.50
+Average Completeness: 0.18
+Average Response Time: 24.74 seconds
+
+==================================================
+

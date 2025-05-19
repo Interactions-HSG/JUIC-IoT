@@ -1,0 +1,38 @@
+{
+"wheelControl": {
+        "title": "Wheel Control",
+        "description": "Command the wheel motors",
+        "type": "object",
+        "properties": {
+          "axis": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 2
+          },
+          "speed": {
+            "type": "integer",
+            "minimum": -7,
+            "maximum": 7
+
+          },
+          "duration": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5000
+          }
+        },
+        "required": [
+          "axis",
+          "speed",
+          "duration"
+        ],
+        "forms": [
+          {
+            "op": [
+              "invokeaction"
+            ],
+            "href": "/actions/wheelControl"
+          }
+        ]
+      }
+}

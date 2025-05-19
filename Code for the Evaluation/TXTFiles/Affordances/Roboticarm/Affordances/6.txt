@@ -1,0 +1,53 @@
+[ a td:ActionAffordance, cherrybot:SetTarget;
+      td:name "setTarget";
+      td:hasForm [
+          htv:methodName "PUT";
+          hctl:hasTarget <XXX>;
+          hctl:forContentType "application/json";
+          hctl:hasOperationType td:invokeAction
+        ];
+      td:hasInputSchema [ a js:ObjectSchema, cherrybot:TcpMovementSchema;
+          js:properties [ a js:IntegerSchema, cherrybot:Speed;
+              js:propertyName "speed";
+              js:minimum "10"^^xsd:int;
+              js:maximum "400"^^xsd:int
+            ], [ a js:ObjectSchema, cherrybot:TcpTargetSchema;
+              js:propertyName "target";
+              js:properties [ a js:ObjectSchema, cherrybot:CoordinatesSchema;
+                  js:propertyName "coordinate";
+                  js:properties [ a js:NumberSchema, cherrybot:XCoordinate;
+                      js:propertyName "x";
+                      js:minimum -7.2E2;
+                      js:maximum 7.2E2
+                    ], [ a js:NumberSchema, cherrybot:YCoordinate;
+                      js:propertyName "y";
+                      js:minimum -7.2E2;
+                      js:maximum 7.2E2
+                    ], [ a js:NumberSchema, cherrybot:ZCoordinate;
+                      js:propertyName "z";
+                      js:minimum -1.783E2;
+                      js:maximum 1.01E3
+                    ];
+                  js:required "x", "y", "z"
+                ], [ a js:ObjectSchema, cherrybot:RotationSchema;
+                  js:propertyName "rotation";
+                  js:properties [ a js:NumberSchema, cherrybot:Roll;
+                      js:propertyName "roll";
+                      js:minimum -1.8E2;
+                      js:maximum 1.8E2
+                    ], [ a js:NumberSchema, cherrybot:Pitch;
+                      js:propertyName "pitch";
+                      js:minimum -1.8E2;
+                      js:maximum 1.8E2
+                    ], [ a js:NumberSchema, cherrybot:Yaw;
+                      js:propertyName "yaw";
+                      js:minimum -1.8E2;
+                      js:maximum 1.8E2
+                    ];
+                  js:required "roll", "pitch", "yaw"
+                ];
+              js:required "coordinate", "rotation"
+            ];
+          js:required "target", "speed"
+        ]
+    ]

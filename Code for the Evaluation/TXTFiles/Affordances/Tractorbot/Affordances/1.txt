@@ -1,0 +1,14 @@
+"batteryVoltage": {
+      "title": "Battery Voltage",
+      "observable": false,
+      "readOnly": true,
+      "type": "number",
+      "forms": [
+        {
+          "op": [
+            "readproperty"
+          ],
+          "href": "/properties/batteryvoltage"
+        }
+      ]
+    }

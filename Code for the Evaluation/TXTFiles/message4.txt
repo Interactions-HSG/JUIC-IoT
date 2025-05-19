@@ -1,0 +1,25 @@
+{
+ "status": [
+    {
+      "numeration": "1",
+      "name": "Current Temperature",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "50",
+      "valueMIN": "-50"
+    },
+    {
+      "numeration": "2",
+      "name": "Target Temperature",
+      "uiComponent": "Text Diplay",
+      "valueMAX": "50",
+      "valueMIN": "-50"
+    },
+    {
+      "numeration": "3",
+      "name": "Mode",
+      "uiComponent": "Text Display",
+      "valueMAX": ,
+      "valueMIN": 
+    }
+  ]
+}

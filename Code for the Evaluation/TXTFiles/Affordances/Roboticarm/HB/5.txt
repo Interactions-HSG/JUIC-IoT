@@ -1,0 +1,11 @@
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "setGripper",
+      "uiComponent": "Slider",
+      "valueMAX": 800,
+      "valueMIN": 0
+    }
+  ]
+}

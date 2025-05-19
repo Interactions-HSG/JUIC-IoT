@@ -1,0 +1,11 @@
+{
+  "initialize": [
+    {
+      "numeration": "1",
+      "name": "initialize",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}

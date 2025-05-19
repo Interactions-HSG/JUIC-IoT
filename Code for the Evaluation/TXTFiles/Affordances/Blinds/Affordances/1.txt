@@ -1,0 +1,19 @@
+properties {
+    state {
+      title state,
+      observable false,
+      readOnly false,
+      description State of the blinds (up, down, stop),
+      type object,
+      properties{state{typestring}},
+      forms [
+        {
+          op [
+            writeproperty,
+            readproperty
+          ],
+          href 
+        }
+      ]
+    }
+  }

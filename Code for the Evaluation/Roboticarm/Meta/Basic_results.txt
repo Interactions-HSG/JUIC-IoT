@@ -1,0 +1,3410 @@
+[1.txt - Iteration 1]
+Response Time: 5.57 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "gripper",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 3.85 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper Value": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 1.71 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper Value": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 2.46 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 2.49 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 2.43 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 3.05 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 3.33 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Gripper": [
+      {
+        "numeration": "1",
+        "name": "Gripper Value",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      }
+    ]
+  },
+  {
+    "Gripper": [
+      {
+        "numeration": "1",
+        "name": "Gripper Value",
+        "uiComponent": "Slider",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 2.77 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 2.20 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.66
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Gripper",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "800\"\n      \"",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 3.18 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Initialize",
+      "uiComponent": "Interactable",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 2.52 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Initialize",
+      "uiComponent": "Interactable",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 2.40 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialize Button",
+      "uiComponent": "Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 2.79 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.06
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1\"\n      \"",
+      "name": "Initialize\"\n      \"",
+      "uiComponent": "Interactable\"\n      \"",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 3.49 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Initialize",
+      "uiComponent": "Interactable",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 2.80 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Initialize": [
+    {
+      "numeration": "1",
+      "name": "Initialization Button",
+      "uiComponent": "Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 3.07 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Initialize",
+      "uiComponent": "Interactable",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 3.24 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Initialize": [
+      {
+        "numeration": "1",
+        "name": "Initialize Button",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Initialize": [
+      {
+        "numeration": "1",
+        "name": "Initialize Button",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 3.79 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.06
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1\"\n      \"",
+      "name": "Initialize\"\n      \"",
+      "uiComponent": "Interactable\"\n      \"",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 1.88 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Initialize Affordance": [
+    {
+      "numeration": "1",
+      "name": "Initialize",
+      "uiComponent": "Interactable > Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 1]
+Response Time: 3.16 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.12
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 2]
+Response Time: 3.42 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 3]
+Response Time: 2.64 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.12
+
+--- Response Content ---
+{
+  "Register Operator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 4]
+Response Time: 3.16 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.03
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Interactable",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 5]
+Response Time: 1.98 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 6]
+Response Time: 2.59 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 7]
+Response Time: 4.63 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 8]
+Response Time: 3.36 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Register Operator",
+        "uiComponent": "Input Form",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Register Operator",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[3.txt - Iteration 9]
+Response Time: 2.44 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.12
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[3.txt - Iteration 10]
+Response Time: 2.76 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Register Operator",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Register Operator",
+        "uiComponent": "Input Form"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[4.txt - Iteration 1]
+Response Time: 2.69 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Remove Operator",
+      "uiComponent": "Interactable > Two Buttons",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 2]
+Response Time: 2.79 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Remove Operator": [
+    {
+      "numeration": "1",
+      "name": "removeOperator",
+      "uiComponent": "Interactable > Two Buttons",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 3]
+Response Time: 2.57 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Remove Operator": [
+    {
+      "numeration": "1",
+      "name": "removeOperator",
+      "uiComponent": "Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 4]
+Response Time: 3.26 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Remove Operator",
+      "uiComponent": "Interactable > Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 5]
+Response Time: 2.81 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "Remove Operator": [
+    {
+      "numeration": "1",
+      "name": "removeOperator",
+      "uiComponent": "Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 6]
+Response Time: 4.41 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Interactable",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Interactable > Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "removeOperator": [
+      {
+        "numeration": "1",
+        "name": "Remove Operator",
+        "uiComponent": "Interactable > Single Button",
+        "description": "Click to remove the operator with the specified token.",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[4.txt - Iteration 7]
+Response Time: 2.30 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Remove Operator": [
+    {
+      "numeration": "1",
+      "name": "Token",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 8]
+Response Time: 3.49 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Remove Operator": [
+      {
+        "numeration": "1",
+        "name": "Token",
+        "uiComponent": "Input Form",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  },
+  {
+    "Remove Operator": [
+      {
+        "numeration": "1",
+        "name": "Token",
+        "uiComponent": "Single Button",
+        "valueMAX": "",
+        "valueMIN": ""
+      }
+    ]
+  }
+]
+
+==================================================
+
+[4.txt - Iteration 9]
+Response Time: 3.03 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Remove Operator": [
+    {
+      "numeration": "1",
+      "name": "Token",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[4.txt - Iteration 10]
+Response Time: 3.64 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "removeOperator": [
+    {
+      "numeration": "1",
+      "name": "Remove Operator",
+      "uiComponent": "Interactable > Single Button",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 1]
+Response Time: 2.49 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Set Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 2]
+Response Time: 2.73 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Set Gripper": [
+    {
+      "numeration": "1",
+      "name": "Set Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 3]
+Response Time: 2.22 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Set Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 4]
+Response Time: 2.13 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Set Gripper",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 5]
+Response Time: 4.04 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Set Gripper Value",
+        "uiComponent": "Input Form",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Set Gripper Value",
+        "uiComponent": "Slider",
+        "valueMAX": "800",
+        "valueMIN": "0"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[5.txt - Iteration 6]
+Response Time: 2.79 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "Set Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 7]
+Response Time: 2.44 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Set Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Input Form",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 8]
+Response Time: 2.85 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "Set Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 9]
+Response Time: 2.13 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "SetGripper": [
+    {
+      "numeration": "1",
+      "name": "Set Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[5.txt - Iteration 10]
+Response Time: 2.36 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.62
+
+--- Response Content ---
+{
+  "Set Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper Value",
+      "uiComponent": "Slider",
+      "valueMAX": "800",
+      "valueMIN": "0"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 1]
+Response Time: 6.34 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Set Target",
+      "uiComponent": "Interactable",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 2]
+Response Time: 6.50 seconds
+Accuracy: 0.07
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Set Target",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 3]
+Response Time: 6.11 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Set Target",
+      "uiComponent": "Interactable",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 4]
+Response Time: 6.41 seconds
+Accuracy: 0.07
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 5]
+Response Time: 5.90 seconds
+Accuracy: 0.07
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 6]
+Response Time: 6.30 seconds
+Accuracy: 0.07
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Set Target",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 7]
+Response Time: 6.56 seconds
+Accuracy: 0.07
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Set Target",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 8]
+Response Time: 6.01 seconds
+Accuracy: 0.14
+Reliability: 0.50
+Completeness: 0.61
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Target X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Target Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Target Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Speed",
+      "uiComponent": "Slider",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    }
+  ]
+}
+
+==================================================
+
+[6.txt - Iteration 9]
+Response Time: 8.73 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "setTarget",
+        "uiComponent": "Interactable",
+        "valueMAX": "400",
+        "valueMIN": "10"
+      },
+      {
+        "numeration": "2",
+        "name": "xCoordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "yCoordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "4",
+        "name": "zCoordinate",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "5",
+        "name": "roll",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "pitch",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "7",
+        "name": "yaw",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  },
+  [
+    "Horizontal Slider"
+  ],
+  [
+    "Horizontal Slider"
+  ],
+  [
+    "Horizontal Slider"
+  ],
+  [
+    "Horizontal Slider"
+  ],
+  [
+    "Horizontal Slider"
+  ],
+  [
+    "Horizontal Slider"
+  ]
+]
+
+==================================================
+
+[6.txt - Iteration 10]
+Response Time: 6.02 seconds
+Accuracy: 0.07
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Speed",
+      "uiComponent": "Input Form",
+      "valueMAX": "400",
+      "valueMIN": "10"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 1]
+Response Time: 6.87 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 2]
+Response Time: 6.10 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 3]
+Response Time: 5.32 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 4]
+Response Time: 5.16 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.83
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 72000,
+      "valueMIN": -72000
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 72000,
+      "valueMIN": -72000
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 1010,
+      "valueMIN": -178.3
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 5]
+Response Time: 5.71 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-178.3"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 6]
+Response Time: 6.12 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 7]
+Response Time: 16.37 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Slider",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Slider",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Slider",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Text Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Text Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Text Display",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Text Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Text Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Text Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Input Form",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Input Form",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Input Form",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Input Form",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Input Form",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Input Form",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[7.txt - Iteration 8]
+Response Time: 5.40 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 9]
+Response Time: 6.26 seconds
+Accuracy: 0.43
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "X Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Y Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "4",
+      "name": "Z Coordinate",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "5",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "7",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[7.txt - Iteration 10]
+Response Time: 8.44 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Slider",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Slider",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Slider",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[8.txt - Iteration 1]
+Response Time: 5.50 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 2]
+Response Time: 5.02 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 3]
+Response Time: 6.07 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "18000",
+      "valueMIN": "-18000"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 4]
+Response Time: 6.13 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 5]
+Response Time: 5.05 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 6]
+Response Time: 5.16 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.95
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 1010,
+      "valueMIN": -178.3
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 7]
+Response Time: 5.39 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 8]
+Response Time: 6.21 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1010",
+      "valueMIN": "-178.3"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[8.txt - Iteration 9]
+Response Time: 9.35 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Value Horizontal Display",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Coordinate X",
+        "uiComponent": "Slider",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "2",
+        "name": "Coordinate Y",
+        "uiComponent": "Slider",
+        "valueMAX": "72000",
+        "valueMIN": "-72000"
+      },
+      {
+        "numeration": "3",
+        "name": "Coordinate Z",
+        "uiComponent": "Slider",
+        "valueMAX": "1010",
+        "valueMIN": "-1783"
+      },
+      {
+        "numeration": "4",
+        "name": "Roll",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "5",
+        "name": "Pitch",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      },
+      {
+        "numeration": "6",
+        "name": "Yaw",
+        "uiComponent": "Slider",
+        "valueMAX": "180",
+        "valueMIN": "-180"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[8.txt - Iteration 10]
+Response Time: 5.94 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.60
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Coordinate X",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "2",
+      "name": "Coordinate Y",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "72000",
+      "valueMIN": "-72000"
+    },
+    {
+      "numeration": "3",
+      "name": "Coordinate Z",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "1000",
+      "valueMIN": "-1783"
+    },
+    {
+      "numeration": "4",
+      "name": "Roll",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "5",
+      "name": "Pitch",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    },
+    {
+      "numeration": "6",
+      "name": "Yaw",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": "180",
+      "valueMIN": "-180"
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 1]
+Response Time: 2.40 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 2]
+Response Time: 3.36 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 3]
+Response Time: 2.93 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 0.18
+
+--- Response Content ---
+{
+  "registerOperator": [
+    {
+      "numeration": "1",
+      "name": "Name",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    },
+    {
+      "numeration": "2",
+      "name": "Email",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 4]
+Response Time: 3.28 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 5]
+Response Time: 3.37 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 6]
+Response Time: 3.13 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 7]
+Response Time: 2.24 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 8]
+Response Time: 2.72 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 9]
+Response Time: 2.32 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.03
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Interactable",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+[9.txt - Iteration 10]
+Response Time: 2.85 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 0.04
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Register Operator",
+      "uiComponent": "Input Form",
+      "valueMAX": "",
+      "valueMIN": ""
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.43
+Average Reliability: 0.50
+Average Completeness: 0.34
+Average Response Time: 4.13 seconds
+
+==================================================
+

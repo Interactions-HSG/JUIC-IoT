@@ -1,0 +1,11 @@
+{ 
+ "motorCurrent": [
+    {
+      "numeration": "1",
+      "name": "Motor Current",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 5,
+      "valueMIN": 0
+    }
+  ]
+}

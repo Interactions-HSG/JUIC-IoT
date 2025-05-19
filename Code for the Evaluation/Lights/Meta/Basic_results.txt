@@ -1,0 +1,449 @@
+[1.txt - Iteration 1]
+Response Time: 4.67 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 2.15 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 3.51 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "State of the lamp",
+        "uiComponent": "Toggle",
+        "valueMAX": "true",
+        "valueMIN": "false"
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "State of the lamp",
+        "uiComponent": "Toggle",
+        "valueMAX": "true",
+        "valueMIN": "false",
+        "forms": [
+          {
+            "op": [
+              "writeproperty"
+            ],
+            "href": "http://10.2.2.2:1880/knx/floor_1/room_102/lights/group4"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 1.96 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 2.10 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 1.95 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 2.28 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 2.40 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 1.98 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 2.97 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "State of the lamp",
+      "uiComponent": "Toggle",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 4.68 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 2.01 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 2.54 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "Operate Light",
+      "uiComponent": "Interactable > Single Button",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 4.09 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 2.52 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable > Single Button",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 1.54 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Light Control",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 4.34 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 2.27 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 2.73 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 2.04 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.16
+
+--- Response Content ---
+{
+  "Affordance Name": [
+    {
+      "numeration": "1",
+      "name": "Operate Lights",
+      "uiComponent": "Interactable",
+      "valueMAX": "true",
+      "valueMIN": "false"
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.00
+Average Reliability: 0.50
+Average Completeness: 0.15
+Average Response Time: 2.74 seconds
+
+==================================================
+

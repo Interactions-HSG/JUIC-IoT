@@ -1,0 +1,13 @@
+[ a td:ActionAffordance, cherrybot:SetGripper;
+      td:name "setGripper";
+      td:hasForm [
+          htv:methodName "PUT";
+          hctl:hasTarget <https://api.interactions.ics.unisg.ch/cherrybot/gripper>;
+          hctl:forContentType "application/json";
+          hctl:hasOperationType td:invokeAction
+        ];
+      td:hasInputSchema [ a js:IntegerSchema, cherrybot:GripperValue;
+          js:minimum "0"^^xsd:int;
+          js:maximum "800"^^xsd:int
+        ]
+    ]

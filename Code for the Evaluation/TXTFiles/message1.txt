@@ -1,0 +1,24 @@
+[
+  a td:ActionAffordance, hsg:SmartLightAction;
+  td:name ""setLightState"";
+  td:hasForm [
+      htv:methodName ""POST"";
+      hctl:hasTarget <http://10.10.10.104/things/smartlight/actions/lightState>;
+      hctl:forContentType ""application/json"";
+      hctl:hasOperationType td:invokeAction
+    ];
+  td:hasInputSchema [ a js:ObjectSchema;
+      js:properties [ a js:IntegerSchema;
+          js:propertyName ""brightness"";
+          js:minimum ""0""^^xsd:int;
+          js:maximum ""100""^^xsd:int
+        ], [ a js:IntegerSchema;
+          js:propertyName ""colorTemperature"";
+          js:minimum ""2700""^^xsd:int;
+          js:maximum ""6500""^^xsd:int
+        ], [ a js:BooleanSchema;
+          js:propertyName ""power"";
+          js:default ""true""
+        ]
+    ]
+]

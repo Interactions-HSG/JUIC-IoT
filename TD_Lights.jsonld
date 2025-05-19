@@ -1,0 +1,49 @@
+{
+  "@context": "https://www.w3.org/2019/wot/td/v1",
+  "title": "lab_knx_lights",
+  "id": "urn:rb30_r102_knx_lights",
+  "base": "XXX",
+  "description": "KNX Lights in the lab",
+  "securityDefinitions": {
+    "nosec_sc": {
+      "scheme": "nosec"
+    }
+  },
+  "security": "nosec_sc",
+  "properties": {
+    "state": {
+      "title": "state",
+      "observable": false,
+      "readOnly": false,
+      "description": "State of the lamp",
+      "type": "object",
+      "properties":{"state":{"type":"boolean"}},
+      "forms": [
+        {
+          "op": [
+            "writeproperty",
+            "readproperty"
+          ],
+          "href": "XXX"
+        }
+      ]
+    }
+  },
+  "actions": {
+	"operate":{
+		"title": "operate",
+		"description": "Turns the lights on (state=true) or off (state=false)",
+		"forms": [
+			{
+			  "op": ["invokeaction" ],
+			  "href": "XXX"
+			}
+		],
+		"input":{
+			"type":"object",
+			"properties":{"state":{"type":"boolean"}}
+		}
+	}
+  },
+  "events": {}
+}

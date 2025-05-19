@@ -1,0 +1,25 @@
+{ 
+   "setLightState": [ 
+       { 
+           "numeration": "1", 
+           "name": "brightness", 
+           "uiComponent": "Slider", 
+           "valueMAX": 100, 
+           "valueMIN": 0
+       }, 
+       { 
+           "numeration": "2", 
+           "name": "colorTemperature", 
+           "uiComponent": "Slider", 
+           "valueMAX": 6500, 
+           "valueMIN": 2700
+       }, 
+       { 
+           "numeration": "3", 
+           "name": "power", 
+           "uiComponent": "Single Button", 
+           "valueMAX": , 
+           "valueMIN": 
+       } 
+   ] 
+}

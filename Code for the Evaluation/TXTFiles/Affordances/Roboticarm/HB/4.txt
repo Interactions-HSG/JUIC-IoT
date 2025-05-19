@@ -1,0 +1,11 @@
+{
+  "RemoveOperator": [
+    {
+      "numeration": "1",
+      "name": "RemoveOperator",
+      "uiComponent": "Single Button",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}

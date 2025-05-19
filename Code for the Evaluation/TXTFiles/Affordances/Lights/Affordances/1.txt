@@ -1,0 +1,19 @@
+"properties": {
+    "state": {
+      "title": "state",
+      "observable": false,
+      "readOnly": false,
+      "description": "State of the lamp",
+      "type": "object",
+      "properties":{"state":{"type":"boolean"}},
+      "forms": [
+        {
+          "op": [
+            "writeproperty",
+            "readproperty"
+          ],
+          "href": "XXX"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,53 @@
+{
+  "SetTarget": [
+    {
+      "numeration": "1",
+      "name": "speed",
+      "uiComponent": "Slider",
+      "valueMAX": 400,
+      "valueMIN": 10
+    },
+    {
+      "numeration": "2",
+      "name": "x",
+      "uiComponent": "Input Form",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "3",
+      "name": "y",
+      "uiComponent": "Input Form",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "4",
+      "name": "z",
+      "uiComponent": "Input Form",
+      "valueMAX": 1010,
+      "valueMIN": -178.3
+    },
+    {
+      "numeration": "5",
+      "name": "roll",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "pitch",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "7",
+      "name": "yaw",
+      "uiComponent": "Slider",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}

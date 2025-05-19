@@ -1,0 +1,46 @@
+{
+  "TcpTarget": [
+    {
+      "numeration": "1",
+      "name": "x",
+      "uiComponent": "Text Display",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "2",
+      "name": "y",
+      "uiComponent": "Text Display",
+      "valueMAX": 720,
+      "valueMIN": -720
+    },
+    {
+      "numeration": "3",
+      "name": "z",
+      "uiComponent": "Text Display",
+      "valueMAX": 1010,
+      "valueMIN": -178.3
+    },
+    {
+      "numeration": "4",
+      "name": "roll",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "5",
+      "name": "pitch",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    },
+    {
+      "numeration": "6",
+      "name": "yaw",
+      "uiComponent": "Value Vertical Display",
+      "valueMAX": 180,
+      "valueMIN": -180
+    }
+  ]
+}

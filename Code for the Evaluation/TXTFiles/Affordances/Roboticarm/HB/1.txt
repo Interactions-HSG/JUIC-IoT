@@ -1,0 +1,11 @@
+{
+  "Gripper": [
+    {
+      "numeration": "1",
+      "name": "Gripper",
+      "uiComponent": "Value Horizontal Display",
+      "valueMAX": 800,
+      "valueMIN": 0
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+[1.txt - Iteration 1]
+Response Time: 6.75 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null,
+        "operations": [
+          "writeproperty",
+          "readproperty"
+        ]
+      }
+    ]
+  },
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null,
+        "httpRequestType": "POST"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 2]
+Response Time: 4.94 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  [
+    "writeproperty",
+    "readproperty"
+  ],
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null,
+        "httpRequestType": "POST"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 3]
+Response Time: 4.22 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  [
+    "writeproperty",
+    "readproperty"
+  ],
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 4]
+Response Time: 2.89 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "State of the lamp": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 5]
+Response Time: 4.34 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  [
+    "writeproperty",
+    "readproperty"
+  ],
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 6]
+Response Time: 5.15 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "State of the Lamp": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 7]
+Response Time: 3.97 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "State of the lamp": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 8]
+Response Time: 4.48 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "State of the lamp": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[1.txt - Iteration 9]
+Response Time: 7.96 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "state",
+        "uiComponent": "Single Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Single Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Single Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ],
+    "HTTP Request": [
+      {
+        "requestType": "POST",
+        "href": "http://10.2.2.2:1880/knx/floor_1/room_102/lights/group4"
+      },
+      {
+        "requestType": "GET",
+        "href": "http://10.2.2.33:1880/InfluxDB?measurement=room_lamp_status&field=r400"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[1.txt - Iteration 10]
+Response Time: 4.58 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  [
+    "writeproperty",
+    "readproperty"
+  ],
+  {
+    "State of the lamp": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 1]
+Response Time: 8.11 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Input Form",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Single Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Single Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ],
+    "HTTP Request Type": "POST"
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 2]
+Response Time: 3.39 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "Power status of the lamps": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 3]
+Response Time: 4.23 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.98
+
+--- Response Content ---
+{
+  "Power status of the lamps": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Text Display",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "operate",
+      "uiComponent": "Single Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 4]
+Response Time: 2.67 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "operate": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 5]
+Response Time: 7.50 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "State Value",
+        "uiComponent": "Input Form",
+        "type": "boolean",
+        "valueMAX": true,
+        "valueMIN": false
+      }
+    ]
+  },
+  {
+    "Affordance Name": [
+      {
+        "numeration": "1",
+        "name": "Name of the component that gets interacted with",
+        "uiComponent": "selectedUIComponent",
+        "valueMAX": "Max value",
+        "valueMIN": "Min value"
+      },
+      "Add more components as necessary\n  ]",
+      "HTTP Request",
+      {
+        "Method": "Invoke Action",
+        "URL": "http://10.2.2.2:1880/knx/floor_1/room_102/lights/group4",
+        "Body": {
+          "state": true
+        }
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 6]
+Response Time: 7.92 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Text Display",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ],
+    "HTTP Request": [
+      {
+        "numeration": "1",
+        "name": "Turn lights on/off",
+        "httpMethod": "POST",
+        "href": "http://10.2.2.2:1880/knx/floor_1/room_102/lights/group4"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 7]
+Response Time: 3.50 seconds
+Accuracy: 1.00
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "Power status of the lamps": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    }
+  ]
+}
+
+==================================================
+
+[2.txt - Iteration 8]
+Response Time: 6.67 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null,
+        "inputType": "boolean"
+      }
+    ]
+  },
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null,
+        "inputType": "boolean",
+        "httpRequest": "POST"
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 9]
+Response Time: 6.11 seconds
+Accuracy: 0.00
+Reliability: 0.50
+Completeness: 0.00
+
+--- Response Content ---
+[
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Single Button",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  },
+  {
+    "Power status of the lamps": [
+      {
+        "numeration": "1",
+        "name": "state",
+        "uiComponent": "Toggle",
+        "valueMAX": null,
+        "valueMIN": null
+      },
+      {
+        "numeration": "2",
+        "name": "operate",
+        "uiComponent": "Single Button",
+        "httpRequestType": "POST/PUT (invokeaction)",
+        "valueMAX": null,
+        "valueMIN": null
+      }
+    ]
+  }
+]
+
+==================================================
+
+[2.txt - Iteration 10]
+Response Time: 5.78 seconds
+Accuracy: 0.50
+Reliability: 0.50
+Completeness: 1.00
+
+--- Response Content ---
+{
+  "Power status of the lamps": [
+    {
+      "numeration": "1",
+      "name": "state",
+      "uiComponent": "Toggle",
+      "valueMAX": null,
+      "valueMIN": null
+    },
+    {
+      "numeration": "2",
+      "name": "operate",
+      "uiComponent": "Input Form",
+      "type": "boolean",
+      "valueMAX": true,
+      "valueMIN": false
+    }
+  ]
+}
+
+==================================================
+
+Final Results Summary:
+Average Accuracy: 0.20
+Average Reliability: 0.50
+Average Completeness: 0.45
+Average Response Time: 5.26 seconds
+
+==================================================
+

@@ -1,0 +1,14 @@
+ "motorCurrent": {
+      "title": "Motor Current",
+      "observable": false,
+      "readOnly": true,
+      "type": "number",
+      "forms": [
+        {
+          "op": [
+            "readproperty"
+          ],
+          "href": "/properties/motorcurrent"
+        }
+      ]
+    }

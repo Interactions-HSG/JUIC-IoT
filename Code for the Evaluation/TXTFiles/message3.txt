@@ -1,0 +1,22 @@
+[ a td:PropertyAffordance, smartthermostat:Status, js:ObjectSchema,
+    smartthermostat:StatusWithRangeSchema;
+  td:name ""status"";
+  td:hasForm [
+      hctl:hasTarget <https://api.smartthermostat.example.com/thermostat/status>;
+      hctl:forContentType ""application/json"";
+      hctl:hasOperationType td:readProperty
+    ];
+  td:isObservable true;
+  js:properties [ a js:IntegerSchema, smartthermostat:CurrentTemperature;
+      js:propertyName ""currentTemperature"";
+      js:minimum ""-50""^^xsd:int;
+      js:maximum ""50""^^xsd:int
+    ], [ a js:IntegerSchema, smartthermostat:TargetTemperature;
+      js:propertyName ""targetTemperature"";
+      js:minimum ""-50""^^xsd:int;
+      js:maximum ""50""^^xsd:int
+    ], [ a js:StringSchema, smartthermostat:Mode;
+      js:propertyName ""mode""
+    ];
+  js:required ""currentTemperature"", ""targetTemperature"", ""mode""
+]

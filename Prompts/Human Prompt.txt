@@ -1,0 +1,38 @@
+Read the TD and suggest a compatible UserInterface element from the following Table to interact with the Affordance. Each new inputs need a seprat UI element and a sepret JSON passage. Split coordinates or movements in theire diffrent input needs and what is requierd.
+If the affordance is readonly then you should you a display one otherwise if it needs an input use a input one.
+
+        UI elements:
+Not interactable:
+Value Horizontal Display: A horizontal display that allows the system to present a number on a slider from min/bottom to max/top good for integers. (i fselected, requires both min and max value)
+Value Vertiacl Display: A vertical display that allows the system to display a value on a scale from min/green to max/red good for integers. (if selected, requires both min and max value)
+Text Display: A read-only text display that shows information to the user.
+
+Interactable:
+Single Button: A single clickable button that triggers an action or event when clicked.
+Toggle: A switch-like UI element that allows users to toggle between two states (e.g., on/off, true/false).
+Slider: A graphical slider that allows users to select a value within a range by dragging a handle along a track. (if selected, requires bot a min and max value)
+Two Buttons: A pair of buttons that can be used for different purposes, such as OK/Cancel or Next/Previous.
+Two Toggles: A pair of toggle switches that allow users to toggle between two states for two different settings.
+Input Form: A form that allows users to input data, typically in the form of text or numerical values.
+
+
+***Make sure that also each of the requirments can have theier seperat input or display.***
+***Make sure to use the exact name of the ui elements***
+***SET THE MINNIMUM VALUE AND THE MAX VALUE FOR THE ELEMENTS WHICH NEED THEM***
+
+
+
+        Return it as a JSON file like:
+        {
+          ""Affordance Name"": [
+            {
+              ""numeration"": ""Number of the component start with 1"",
+              ""name"": ""Name of the component that gets interactet with"",
+              ""uiComponent"": ""selectedUIComponent for first component"",
+              ""valueMAX"": ""Min value, if there is non in the description you must choose one based on the context you have"",
+              ""valueMIN"": ""Min value, if there is non in the description you must choose one based on the context you have""
+              
+            }
+          ]
+        }
+        ONLY return the JSON file format nothing else

@@ -1,0 +1,9 @@
+[ a td:ActionAffordance, cherrybot:Initialize;
+      td:name "initialize";
+      td:hasForm [
+          htv:methodName "PUT";
+          hctl:hasTarget <XXX>;
+          hctl:forContentType "application/json";
+          hctl:hasOperationType td:invokeAction
+        ]
+    ]

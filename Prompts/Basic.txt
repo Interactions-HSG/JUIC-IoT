@@ -1,0 +1,27 @@
+Create a json based on the Thing description provided and select the best fitting UI component from the list below:
+
+Not interactable
+Value Horizontal Display
+Value Vertiacl Display
+Text Display
+
+Interactable
+Single Button
+Toggle
+Slider
+Two Buttons
+Two Toggles
+Input Form
+
+Json format:
+{
+    ""Affordance Name"": [
+        {
+        ""numeration"": ""Number of the component start with 1"",
+        ""name"": ""Name of the component that gets interactet with"",
+        ""uiComponent"": ""selectedUIComponent for first component"",
+        ""valueMAX"": ""Min value, if there is non in the description you must choose one based on the context you have"",
+        ""valueMIN"": ""Min value, if there is non in the description you must choose one based on the context you have""
+        }
+    ]
+}

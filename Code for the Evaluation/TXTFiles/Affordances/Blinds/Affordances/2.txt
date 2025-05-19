@@ -1,0 +1,16 @@
+"actions": {
+	"operate":{
+		"title": "operate",
+		"description": "Operate the blinds with action=up, down, or stop",
+		"forms": [
+			{
+			  "op": ["invokeaction" ],
+			  "href": "http:XXX"
+			}
+		],
+		"input":{
+			"type":"object",
+			"properties":{"state":{"type":"string"}}
+		}
+	}
+  }

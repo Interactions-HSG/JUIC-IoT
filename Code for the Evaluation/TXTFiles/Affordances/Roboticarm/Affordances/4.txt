@@ -1,0 +1,12 @@
+[ a td:ActionAffordance, cherrybot:RemoveOperator;
+      td:name "removeOperator";
+      td:hasUriTemplateSchema [ a js:StringSchema, cherrybot:OperatorToken;
+          td:name "token"
+        ];
+      td:hasForm [
+          htv:methodName "DELETE";
+          hctl:hasTarget <XXX>;
+          hctl:forContentType "application/json";
+          hctl:hasOperationType td:invokeAction
+        ]
+    ]
